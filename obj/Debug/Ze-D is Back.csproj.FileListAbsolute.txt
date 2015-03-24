@@ -1,0 +1,11 @@
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\bin\Release\Ze-d is back.exe.config
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\bin\Release\Ze-d is back.exe
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\bin\Release\Ze-d is back.pdb
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\bin\Release\LeagueSharp.Common.dll
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\bin\Release\LeagueSharp.dll
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\bin\Release\SharpDX.dll
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\bin\Release\SharpDX.Direct3D9.dll
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\bin\Release\clipper_library.dll
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\bin\Release\LeagueSharp.xml
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\obj\Debug\Ze-d is back.exe
+E:\Game\New folder\Ze-D is Back\LeagueSharp2-master\Ze-D is Back\obj\Debug\Ze-d is back.pdb
